@@ -7,6 +7,8 @@ Mobile-first puzzle game on **Base** with daily on-chain check-in, **wagmi/viem*
 - `web/` — Next.js App Router (Vercel **Root Directory** = `web`)
 - `contracts/` — Foundry `DailyCheckIn` contract
 
+**Production:** [https://control-lyart.vercel.app](https://control-lyart.vercel.app)
+
 ## Web setup
 
 ```bash
